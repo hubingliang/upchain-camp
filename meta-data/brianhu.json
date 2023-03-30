@@ -1,0 +1,23 @@
+{
+  "name": "Brian Hu",
+  "description": "Font-end Developer learning WEB3.",
+  "image": "ipfs://QmfQo4nA3PEb1QVpG7dXw8gi9dshAgKTiHNdhaYd1QC3QW",
+  "attributes": [
+    {
+      "trait_type": "Base",
+      "value": "Starfish"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    }
+  ]
+}
