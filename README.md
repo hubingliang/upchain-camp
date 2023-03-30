@@ -1,6 +1,6 @@
 # w1-1
 
-!()[/images/w1-1/screenshot-20230308-155814]
+![](/images/w1-1/screenshot-20230308-155814)
 
 # w1-2
 
