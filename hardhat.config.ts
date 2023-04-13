@@ -1,7 +1,8 @@
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomicfoundation/hardhat-toolbox";
 require("dotenv").config();
-require("@openzeppelin/hardhat-upgrades");
+import "@openzeppelin/hardhat-upgrades";
+
 const {
   POLYGON_MUMBAI_API_URL,
   GOERLI_API_URL,
